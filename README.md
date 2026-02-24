@@ -13,6 +13,7 @@ Welcome to my Python learning journey! This repository tracks my progress from t
 - [ ] **03_Functions:** Writing reusable and modular code.
 - [ ] **04_Data_Structures:** Lists, Dictionaries, and Tuples.
 - [ ] **05_DevOps_Tooling:** Interacting with the OS, File I/O, and APIs.
+- [ ] **06_Big_Data_Automation:** Distributed processing with **PySpark**.
 
 ## 🛠️ How to Run
 To run any script in this repository, ensure you have Python 3.x installed:
