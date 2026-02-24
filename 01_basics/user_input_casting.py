@@ -19,4 +19,4 @@ length = int(raw_length)
 height = int(raw_height)
 radius = float(raw_radius)
 
-print(f"The circunference of your rectangle is {length*height} and circle is {2*pi*radius}")
+print(f"The circumference of your rectangle is {2*(length+height)} and circle is {2*pi*radius}")
