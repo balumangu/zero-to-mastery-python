@@ -9,7 +9,7 @@ Welcome to my Python learning journey! This repository tracks my progress from t
 
 ## 🗂️ Roadmap
 - [x] **01_Basics:** Variables, Data Types, and Operators.
-- [ ] **02_Flow_Control:** If/Else statements and Loops.
+- [x] **02_Flow_Control:** If/Else statements and Loops.
 - [ ] **03_Functions:** Writing reusable and modular code.
 - [ ] **04_Data_Structures:** Lists, Dictionaries, and Tuples.
 - [ ] **05_DevOps_Tooling:** Interacting with the OS, File I/O, and APIs.
