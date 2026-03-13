@@ -5,7 +5,7 @@
 # ==============================================================================
 
 # This is a program that simulates a quiz. 
-# It uses lists to store questions and answers, and tuples to store the correct answers.
+# It uses tuples to store questions and answers, and lists to store the correct answers.
 
 questions = (
     "1. Which element has the highest electrical conductivity of all metals?",
