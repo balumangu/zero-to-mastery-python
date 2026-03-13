@@ -15,6 +15,11 @@ office_directory = {
     "Diana Prince": {"mobile": "555-4321", "job_title": "UX Designer"}
 }
 
+# Get method to retrieve employee details
+employee_name = "Alice Johnson"
+employee_details = office_directory.get(employee_name, "Employee not found.")
+print(f"Details of {employee_name}: {employee_details} \n")
+
 # Adding a new employee to the office directory
 office_directory.update({"Edward Jones": {"mobile": "555-6789", "job_title": "DevOps Engineer"}})
 print(f"Added new employee: Edward Jones - {office_directory['Edward Jones']} \n")
